@@ -1,6 +1,6 @@
 package test_java;
 
-//test123a
+//test124
 
 public class One {
 	 public static void main(String[] args) {
